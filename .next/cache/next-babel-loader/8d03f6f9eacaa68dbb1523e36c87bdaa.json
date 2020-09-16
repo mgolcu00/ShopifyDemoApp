@@ -1,0 +1,1 @@
+{"ast":null,"code":"const fs = require('fs');","map":{"version":3,"sources":["C:/Users/mertg/Desktop/Shopify/demoapp2/pages/fileManagment.js"],"names":["fs","require"],"mappings":"AAAA,MAAMA,EAAE,GAAGC,OAAO,CAAC,IAAD,CAAlB","sourcesContent":["const fs = require('fs')\r\n\r\n"]},"metadata":{},"sourceType":"script"}
